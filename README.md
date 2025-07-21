@@ -40,7 +40,7 @@ A fully modular and synthesizable AES-128 encryption and decryption engine built
 
 ## 🧪 Simulation & Verification
 
-- Simulated using **ModelSim**
+- Simulated using **Vivado**
 - Verified against known **NIST test vectors** for correctness
 - Outputs compared for bit-accuracy across encryption and decryption cycles
 
